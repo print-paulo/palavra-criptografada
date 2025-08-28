@@ -1,3 +1,3 @@
-# palavra-criptografa
+# palavra-criptografada
 
 palavra criptografada = pjuhuhpqnnvl
